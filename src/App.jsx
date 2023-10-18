@@ -7,6 +7,7 @@ import Skills from './components/Skills';
 import Education from './components/Education';
 import Experience from './components/Experience';
 import Project from './components/Project';
+import './App.css'
 const App = () => {
   return (
     <>

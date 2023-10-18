@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @layer components {
+  .active {
+ border-bottom: red;
+ background-color: red;
+  }
+
+} */
+
+.active{
+   
+    border-bottom: 2px solid blue;
+}
