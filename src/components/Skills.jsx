@@ -3,7 +3,7 @@ import React from "react";
 const Skills = () => {
   return (
     <div className="bg-black flex flex-center text-white flex-col justify-center items-center ">
-     <div className="mt-12 border-b-2  text-center"><h1 className="text-5xl">Skills</h1></div>
+     <div className="mt-12 border-b-2  text-center"><h1 className="text-5xl pb-2">Skills</h1></div>
       <div className="mt-12" >
       
         <p className="whitespace-pre-wrap w-96 text-xl">

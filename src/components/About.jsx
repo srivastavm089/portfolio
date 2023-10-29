@@ -3,7 +3,8 @@ import React from "react";
 const About = () => {
   return (
     <div className="bg-black">
-      <h1 className="text-white text-center text-7xl pt-12 ">About</h1>
+      <div className="flex justify-center"> <h1 className="text-white text-center text-7xl pt-12 border-b-2 pb-2 ">About</h1></div>
+     
       <div className=" flex flex-col justify-center gap-10 items-center mt-12 md:flex-row">
      
       <div className="w-96">
@@ -37,7 +38,7 @@ const About = () => {
         </p>
       </div>
       <div>
-        <img className="w-96" src="https://zippy-custard-299680.netlify.app/static/media/IMG_20191126_222305.6a7fc6cbc4b08a75e119.jpg" alt="image" />
+        <img className="w-96 rounded-xl" src="https://abhaykumarsrivastava.netlify.app/static/media/IMG_20191126_222305.6a7fc6cbc4b08a75e119.jpg" alt="image" />
       </div>
     </div>
     </div>
